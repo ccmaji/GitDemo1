@@ -1,6 +1,6 @@
 public class Git{
 	public static void main(String args[]){
-		System.out.println("Hello world! It is beautiful master!!!");
+		System.out.println("Hello world! It is beautiful master!!! twice");
 	}
 
 }
